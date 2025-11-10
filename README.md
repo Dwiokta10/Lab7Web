@@ -61,5 +61,3 @@ Jika `index.php` XAMPP masih aktif, halaman root `http://localhost/` akan mengar
 - XAMPP (Apache + PHP) atau server PHP lain.
 - PHP 7.4+ (disarankan) agar kompatibel dengan `DateTime` dan fitur umum.
 
-## Lisensi
-Proyek ini untuk tujuan pembelajaran. Gunakan dan modifikasi sesuai kebutuhan Anda.
