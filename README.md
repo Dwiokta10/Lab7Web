@@ -1,4 +1,4 @@
-# Praktikum 7 PHP DASAR 
+# Praktikum 7 PHP DASAR
 
 |                |                    |
 | ------------------ | ------------------ |
