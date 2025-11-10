@@ -13,6 +13,9 @@
 Aplikasi web sederhana berbasis PHP yang menampilkan form input data diri dan menghitung gaji bersih berdasarkan pilihan pekerjaan. Proyek ini cocok untuk latihan dasar PHP (form handling, kondisi, tanggal, dan formatting angka) menggunakan lingkungan XAMPP.
 
 ## Fitur
+<img width="1097" height="687" alt="Cuplikan layar 2025-11-10 150834" src="https://github.com/user-attachments/assets/70eadc08-4912-4aed-9cf8-45ac21a06b2d" />
+<img width="1585" height="892" alt="Cuplikan layar 2025-11-10 150847" src="https://github.com/user-attachments/assets/944bf3cd-547d-42b1-8cbb-b9ea53192054" />
+
 - **Form Data Diri**: Nama, Tanggal Lahir, dan Pekerjaan.
 - **Hitung Umur Otomatis** dari tanggal lahir.
 - **Gaji Pokok per Pekerjaan** ditentukan via `switch`.
