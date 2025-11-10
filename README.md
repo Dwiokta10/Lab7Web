@@ -1,4 +1,4 @@
-# PRAKTIKUM 7 PHP dasar
+# Praktikum 7 PHP DASAR 
 
 |                |                    |
 | ------------------ | ------------------ |
